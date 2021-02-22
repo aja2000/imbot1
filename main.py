@@ -1,6 +1,6 @@
 import discord
 
-file = open("key.text", "r")
+file = open("key.txt", "r")
 key = file.read()
 
 
